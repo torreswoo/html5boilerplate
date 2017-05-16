@@ -1,0 +1,17 @@
+@charset "UTF-8";
+@import url(../css/reset.css);
+
+/*banner css*/
+
+body{
+  padding: 20px;
+  background-color: #222222;
+}
+
+a.banner{
+  display: block;
+  width: 728px;
+  height: 176px;
+  border: 1px solid #555555;
+}
+
